@@ -2,7 +2,8 @@
 
 This project is the source code of the Udemy course [Modern React with Redux](https://www.udemy.com/course/react-redux/).
 Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!
-Project content:
+
+**Project content**:
 
 * JSX
 * Components (State, Props System)
@@ -19,7 +20,7 @@ Project content:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
