@@ -1,0 +1,26 @@
+# Modern React with Redux
+
+This project is the source code of the Udemy course [Modern React with Redux](https://www.udemy.com/course/react-redux/).
+Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!
+Project content:
+
+* JSX
+* Components (State, Props System)
+* Seasons (Class-based component, Lifecycle Method)
+* ...
+
+## Some sources or libraries used:
+* [Semantic UI](https://semantic-ui.com/)
+* [Codepen](https://codepen.io/)
+* [Babel](https://babeljs.io/)
+* [faker.js](https://github.com/marak/Faker.js/)
+* ...
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.<br />
