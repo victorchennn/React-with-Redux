@@ -11,7 +11,8 @@ Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
 * Pics (event-handler, async-await, `this`(arrow function), axios, map, Ref)
 * Videos (React review)
 -----------------
-* Songs (action, reducer, connect(mapStateToProps, action)(component))
+* Songs (Action, Reducer(object), connect(mapStateToProps, action)(component))
+* Blog (Middleware, Reducer(function), dispatch, dash func)
 * ...
 
 ## Some sources or libraries used:
@@ -21,6 +22,8 @@ Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
 * [faker.js](https://github.com/marak/Faker.js/)
 * [Unsplash](https://unsplash.com/)
 * [Youtube API](https://console.developers.google.com/), [Youtube Data API](https://developers.google.com/youtube/v3/docs/search/list)
+* [JSONPlaceHolder API](https://jsonplaceholder.typicode.com/)
+* [Lodash](https://lodash.com/)
 * ...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
