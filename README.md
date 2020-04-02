@@ -11,6 +11,7 @@ Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
 * Pics (event-handler, async-await, `this`(arrow function), axios, map, Ref)
 * Videos (React review)
 -----------------
+* Songs (action, reducer, connect(mapStateToProps, action)(component))
 * ...
 
 ## Some sources or libraries used:
