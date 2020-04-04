@@ -36,3 +36,27 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 // - componentDidMount(Sit and wait for updates)
 // - componentDidUpdate(Sit and wait until this component is not longer shown)
 // - compoenntWillUnmount
+
+// Using Hooks!
+// const App = () => {
+//   const [lat, setLat] = useState(null);
+//   const [errorMessage, setErrorMessage] = useState('');
+//
+//   useEffect(() => {
+//     window.navigator.geolocation.getCurrentPosition(
+//       position => setLat(position.coords.latitude),
+//       err => setErrorMessage(err.message)
+//     );
+//   }, []); // call once
+//
+//   let content;
+//   if (errorMessage) {
+//     content = <div>Error: {errorMessage}</div>;
+//   } else if (lat) {
+//     content = <SeasonDisplay lat={lat} />;
+//   } else {
+//     content <Spinner message="Please accept location request" />;
+//   }
+//
+//   return <div className="border red">{content}</div>
+// }

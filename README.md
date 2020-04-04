@@ -25,7 +25,6 @@ Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
 * [JSONPlaceHolder API](https://jsonplaceholder.typicode.com/)
 * [Lodash](https://lodash.com/)
 * [Google OAuth](https://developers.google.com/identity/sign-in/web/reference)
-* ...
 -----------------
 ### Optional sources and tools used:  
 * [*Codepen](https://codepen.io/)
@@ -33,7 +32,6 @@ Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
 * [*Redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
 * [*Node-Media-Server](https://github.com/illuspas/Node-Media-Server)
 * [*OBS](https://obsproject.com/)
-* ...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
