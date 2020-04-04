@@ -14,6 +14,7 @@ Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
 * Songs (Reducer(state store), action(object), connect(mapStateToProps, action)(component))
 * Blog (Middleware -> action(function), dispatch, dash func)
 * Streams (Router, OAuth, Redux-Form, Modal, history)
+* Translate (Context System)
 * ...
 
 ### Some sources and external libraries used:
