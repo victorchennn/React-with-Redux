@@ -1,21 +1,21 @@
 # Modern React with Redux
 
 This project is the source code of the Udemy course [Modern React with Redux](https://www.udemy.com/course/react-redux/).
-Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App.
+Master React v16.6.3 and Redux with React Router, Webpack, Hooks and Create-React-App.
 
 **Project content**:
 
 * JSX
 * Components (State, Props System(parent-children))
 * Seasons (Class-based component, Lifecycle Method)
-* Pics (event-handler, async-await, `this`(arrow function), axios, map, Ref)
+* Pics (event-handler, async-await, `this`(arrow function), axios, Ref)
 * Videos (React review)
 -----------------
 * Songs (Reducer(state store), action(object), connect(mapStateToProps, action)(component))
 * Blog (Middleware -> action(function), dispatch, dash func)
 * Streams (Router, OAuth, Redux-Form, Modal, history)
 * Translate (Context System)
-* ...
+* Hooks (hooks!)
 
 ### Some sources and external libraries used:
 * [Semantic-UI](https://semantic-ui.com/), [Semantic-UI cdn](https://cdnjs.com/libraries/semantic-ui)
