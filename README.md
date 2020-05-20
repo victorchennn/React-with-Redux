@@ -26,8 +26,9 @@ Master React v16.6.3 and Redux with React Router, Webpack, Hooks and Create-Reac
 * [JSONPlaceHolder API](https://jsonplaceholder.typicode.com/)
 * [Lodash](https://lodash.com/)
 * [Google OAuth](https://developers.google.com/identity/sign-in/web/reference)
------------------
+
 ## Optional sources and tools used:
+
 * [*Codepen](https://codepen.io/)
 * [*Babel](https://babeljs.io/)
 * [*Redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
